@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanghun2001
 - 👀 I’m interested in mathematics (harmonic analysis and complex functions) and communication systems (specifically safer online communities).
 - 🌱 I’ve currently learnt mathematics and algorithm/data structure theory at undergraduate level.
-- 💞️ I’m looking to collaborate on online community developers aiming for a less-toxic and more-happy online world.
+- 💞️ I’m looking to send my ideas to online community developers aiming for a less-toxic and more-happy online world. To a coalition of friendly grassroot organisations.
 - 📫 How to reach me: My X/Twitter is twitter.com/kanghun2001 .
 
 <!---
